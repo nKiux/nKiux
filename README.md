@@ -36,14 +36,17 @@
 ###
 
 <br clear="both">
+<h2 align="left">Social Media</h2>
+<h3 align="left">Youtube:
 
-<div align="center">
   <a href="https://www.youtube.com/@nKKai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="38" height="26" alt="youtube logo"  />
   </a>
+</h3>
+<h3 align="left">Instagram:
   <a href="https://www.instagram.com/ukaai.k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt="instagram logo"  />
   </a>
-</div>
+</h3>
 
 ###
